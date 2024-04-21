@@ -1,4 +1,5 @@
 "editor.tokenColorCustomizations": { 
+}
   "textMateRules": [
     {
       "name": "unison punctuation",
@@ -1830,8 +1831,7 @@
       }
     }
   ] }
-
-
+,
 "workbench.colorCustomizations": {
 
     "foreground": "#cccccc",
